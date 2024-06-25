@@ -61,8 +61,8 @@
 <!-- Footer-->
 <footer class="py-4 bg-maroon">
             <div class="container">
-              <p class="m-0 text-center text-white">Copyright &copy; <?php echo $_settings->info('short_name') ?> 2024</p>
-              <p class="m-0 text-center text-white">Developed By: <a href="codexethio24@gmail.com">CodexEthio24</a></p>
+              <p class="m-0 text-center text-black">Copyright &copy; <?php echo $_settings->info('short_name') ?> 2024</p>
+              <p class="m-0 text-center text-blach">Developed By: <a href="codexethio24@gmail.com">CodexEthio24</a></p>
           </div>
         </footer>
 
